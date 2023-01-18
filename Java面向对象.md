@@ -18,3 +18,8 @@
 
 此部分内容的讲解见[此视频](https://www.bilibili.com/video/BV1Rx411876f/?p=376&spm_id_from=pageDriver&vd_source=b8a7d9f6d396acb27e811371a96d6e9a)。
 
+## OOX
+
+> ![image-20230118111305390](E:\Typora\Image\image-20230118111305390.png)
+
+> ![image-20230118111512371](E:\Typora\Image\image-20230118111512371.png)
