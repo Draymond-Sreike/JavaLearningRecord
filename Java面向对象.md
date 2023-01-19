@@ -23,3 +23,7 @@
 > ![image-20230118111305390](E:\Typora\Image\image-20230118111305390.png)
 
 > ![image-20230118111512371](E:\Typora\Image\image-20230118111512371.png)
+
+## 面向对象三大特征
+
+> ![image-20230119235838383](D:\大学\单片机学习\MCU Learning Resource\STM32\STM32_Projects\3-1 GPIO\Note\image-20230119235838383.png)
