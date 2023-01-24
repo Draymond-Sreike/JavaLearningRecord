@@ -41,3 +41,22 @@
 > ​	<img src="D:\大学\单片机学习\MCU Learning Resource\STM32\STM32_Projects\3-1 GPIO\Note\image-20230122102105537.png" alt="image-20230122102105537" style="zoom:50%;" />
 >
 > 属性描述状态，方法描述行为动作
+
+## Java软件工程师的作用
+
+> ![image-20230125030256889](D:\JavaLearning\JavaLearningRecord\image-20230125030256889.png)
+
+> ![image-20230125030316428](D:\JavaLearning\JavaLearningRecord\image-20230125030316428.png)
+
+## 类的定义
+
+> ![image-20230125030621230](D:\JavaLearning\JavaLearningRecord\image-20230125030621230.png)
+
+### 为什么属性要以“变量”的形式存在
+
+> ![image-20230125030651690](D:\JavaLearning\JavaLearningRecord\image-20230125030651690.png)
+
+## 局部变量与成员变量（全局变量）
+
+> ![image-20230125030832164](D:\JavaLearning\JavaLearningRecord\image-20230125030832164.png)
+
